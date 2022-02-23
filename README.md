@@ -1,1 +1,1 @@
-## this is not a project , i am just practicing react hook
+## note : This is not a project , I am just practicing react hook
